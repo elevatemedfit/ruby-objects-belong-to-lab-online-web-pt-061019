@@ -7,3 +7,4 @@ class Song
   end
 
 end
+7/11=Song.new("7/11")
